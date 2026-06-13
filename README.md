@@ -14,4 +14,4 @@ Before processing complex environmental datasets (such as hyperthermal metagenom
 * **INI6: Dictionaries:** Frequency distribution modeling using optimized `Counter` algorithms.
 
 ---
-*Strictly adhering to a Zero-Error Framework for Advanced Computational Metagenomics.*
+*Strictly adhering to a zero-error Framework for Advanced Computational Metagenomics.*
